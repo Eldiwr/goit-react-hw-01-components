@@ -1,0 +1,1 @@
+export const randomColor = () => Math.round(Math.random() * 256);
